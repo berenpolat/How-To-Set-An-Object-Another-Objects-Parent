@@ -1,0 +1,5 @@
+
+
+vanObjct.transform.parent = camera.transform;
+
+//When you add this to ypur script, you are setting your camera object as the parent object of vanObjct.
